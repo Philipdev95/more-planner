@@ -4,6 +4,7 @@
   },
   "hosting": {
     "public": "dist/more-planner",
+    "site": "more-planner",
     "ignore": [
       "firebase.json",
       "**/.*",
